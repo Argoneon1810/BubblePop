@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>ECFE811F-F890-45F6-9013-D1D793F4EEC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ECFE811F-F890-45F6-9013-D1D793F4EEC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BubblePop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BubblePop</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BubblePop</string>
+			<key>timeStartedRecording</key>
+			<real>609486614.00473595</real>
+			<key>timeStoppedRecording</key>
+			<real>609486619.39273</real>
+			<key>title</key>
+			<string>Build BubblePop</string>
+			<key>uniqueIdentifier</key>
+			<string>ECFE811F-F890-45F6-9013-D1D793F4EEC7</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

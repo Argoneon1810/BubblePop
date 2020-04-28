@@ -1,0 +1,80 @@
+---
+path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/GameplayKit.swiftmodule/x86_64.swiftmodule'
+dependencies:
+  - mtime:           1586291560000000000
+    path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/GameplayKit.swiftmodule/x86_64.swiftmodule'
+    size:            15840
+  - mtime:           1582411407000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1582411723000000000
+    path:            'usr/include/objc/ObjectiveC.apinotes'
+    size:            11147
+    sdk_relative:    true
+  - mtime:           1582416150000000000
+    path:            'System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    size:            29817
+    sdk_relative:    true
+  - mtime:           1582416237000000000
+    path:            'System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    size:            162
+    sdk_relative:    true
+  - mtime:           1582417297000000000
+    path:            'System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    size:            80492
+    sdk_relative:    true
+  - mtime:           1582418546000000000
+    path:            'System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes'
+    size:            1192
+    sdk_relative:    true
+  - mtime:           1582418302000000000
+    path:            'System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes'
+    size:            53342
+    sdk_relative:    true
+  - mtime:           1582965564000000000
+    path:            'System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes'
+    size:            7428
+    sdk_relative:    true
+  - mtime:           1582420135000000000
+    path:            'System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes'
+    size:            36116
+    sdk_relative:    true
+  - mtime:           1582418471000000000
+    path:            'System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    size:            1662
+    sdk_relative:    true
+  - mtime:           1582418424000000000
+    path:            'System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes'
+    size:            326
+    sdk_relative:    true
+  - mtime:           1582955370000000000
+    path:            'System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes'
+    size:            124494
+    sdk_relative:    true
+  - mtime:           1582419486000000000
+    path:            'System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes'
+    size:            1659
+    sdk_relative:    true
+  - mtime:           1582420949000000000
+    path:            'System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes'
+    size:            97
+    sdk_relative:    true
+  - mtime:           1582421275000000000
+    path:            'System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes'
+    size:            697
+    sdk_relative:    true
+  - mtime:           1583480781000000000
+    path:            'System/Library/Frameworks/SceneKit.framework/Headers/SceneKit.apinotes'
+    size:            13626
+    sdk_relative:    true
+  - mtime:           1582426923000000000
+    path:            'System/Library/Frameworks/GameplayKit.framework/Headers/GameplayKit.apinotes'
+    size:            8258
+    sdk_relative:    true
+  - mtime:           1582968863000000000
+    path:            'usr/lib/swift/GameplayKit.swiftmodule/x86_64.swiftinterface'
+    size:            1459
+    sdk_relative:    true
+version:         1
+...

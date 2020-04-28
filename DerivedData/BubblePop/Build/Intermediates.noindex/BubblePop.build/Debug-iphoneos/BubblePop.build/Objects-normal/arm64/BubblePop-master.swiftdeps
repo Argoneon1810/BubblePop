@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "d7f57f2aa975daadc0709279ed4e781f"
+build_time: [1587793814, 119581000]
+inputs:
+  "/Users/jin/Documents/xCode/BubblePop/BubblePop/GameScene.swift": [1587650154, 691312529]
+  "/Users/jin/Documents/xCode/BubblePop/BubblePop/GameViewController.swift": [1587650154, 694981728]
+  "/Users/jin/Documents/xCode/BubblePop/BubblePop/AppDelegate.swift": [1587650154, 646830524]
